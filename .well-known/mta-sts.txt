@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: cloud7.spamtitan.com
 mx: cloud8.spamtitan.com
 mx: mx.sendgrid.net
