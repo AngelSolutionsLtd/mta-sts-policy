@@ -3,4 +3,4 @@ mode: testing
 mx: cloud7.spamtitan.com
 mx: cloud8.spamtitan.com
 mx: mx.sendgrid.net
-max_age: 1209600
+max_age: 1209700
